@@ -1,0 +1,22 @@
+.el-tabs .el-tabs__content {
+  padding: 0 20px;
+}
+.el-card {
+  width: 100%;
+}
+.el-input {
+  max-width: 500px;
+}
+.el-input .el-input-group__prepend .el-select .el-input {
+  width: auto;
+  min-width: 120px;
+}
+.el-table th > .cell {
+  max-height: 110px;
+}
+.page {
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+}
+/*# sourceMappingURL=get.css.map */
